@@ -1,4 +1,4 @@
-(defproject time "0.1.3"
+(defproject com.duramec/time "0.1.3"
             :description "Duramec time management library"
             :java-source-paths ["src/java"]
             :javac-options["-target" "1.7"
